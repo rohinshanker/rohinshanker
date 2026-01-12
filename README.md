@@ -1,9 +1,21 @@
 <!-- ### Hi there 👋 -->
 <pre>
-    /\_/\           ___ 
-   = o_o =_______    \ \ 
-    __^      __(  \.__) )
-(@)<_____>__(_____)____/ 
+       _                        
+       \`*-.                    
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*' 
+      `*-*   `*-*  `*-*'
+
 </pre>
 <!-- [![Rohin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohinshanker)](https://github.com/anuraghazra/github-readme-stats) -->
 
