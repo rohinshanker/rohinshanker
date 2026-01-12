@@ -1,11 +1,11 @@
 <!-- ### Hi there 👋 -->
-
+"""
     /\_/\           ___
    = o_o =_______    \ \ 
     __^      __(  \.__) )
 (@)<_____>__(_____)____/
-
-[![Rohin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohinshanker)](https://github.com/anuraghazra/github-readme-stats)
+"""
+<!-- [![Rohin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohinshanker)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudstryder&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
