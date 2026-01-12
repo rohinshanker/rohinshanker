@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 """
-    /\_/\           ___
-   = o_o =_______    \ \ 
-    __^      __(  \.__) )
-(@)<_____>__(_____)____/
+    /\_/\           ___ \n
+   = o_o =_______    \ \ \n
+    __^      __(  \.__) )\n
+(@)<_____>__(_____)____/ \n
 """
 <!-- [![Rohin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohinshanker)](https://github.com/anuraghazra/github-readme-stats) -->
 
