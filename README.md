@@ -1,10 +1,10 @@
 <!-- ### Hi there 👋 -->
-"""
-    /\_/\           ___ \n
-   = o_o =_______    \ \ \n
-    __^      __(  \.__) )\n
-(@)<_____>__(_____)____/ \n
-"""
+<pre>
+    /\_/\           ___ 
+   = o_o =_______    \ \ 
+    __^      __(  \.__) )
+(@)<_____>__(_____)____/ 
+</pre>
 <!-- [![Rohin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohinshanker)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudstryder&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
